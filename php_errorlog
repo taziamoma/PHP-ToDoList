@@ -1,0 +1,8 @@
+[29-May-2019 20:11:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tazejesa/public_html/taziamoma/ToDoList/index.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/tazejesa/public_html/taziamoma/ToDoList/index.php on line 56
+[29-May-2019 23:22:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tazejesa/public_html/taziamoma/ToDoList/index.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/tazejesa/public_html/taziamoma/ToDoList/index.php on line 56
